@@ -28,7 +28,7 @@ export default {
   projects: [
     {
       id: 1,
-      title: "Project One",
+      title: "MySamaj",
       service: "Mobile Application",
       imageSrc: proj_mySamaj,
       url: "#",
