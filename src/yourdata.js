@@ -3,6 +3,8 @@ import proj_mySamaj from "./assets/mysamaj.jpeg";
 import proj_loyalTech from "./assets/loyalTech.jpeg";
 import proj_spiri from "./assets/spiri.jpeg";
 import proj_rememberLikes from "./assets/rememberLikes.jpeg";
+import proj_peep from "./assets/peep.png";
+import proj_birbal from "./assets/birbal.png";
 import proj_soon from "./assets/soon.jpeg";
 export default {
   //(Please Do Not Remove The comma(,) after every variable)
@@ -31,14 +33,15 @@ export default {
       title: "MySamaj",
       service: "Mobile Application",
       imageSrc: proj_mySamaj,
-      url: "#",
+      url:
+        "https://play.google.com/store/apps/details?id=com.mysamaj&hl=en_US&gl=US",
     },
     {
       id: 2,
       title: "Loyal Techs",
       service: "Mobile Application",
       imageSrc: proj_loyalTech,
-      url: "#",
+      url: "https://www.loyaltechs.com/",
     },
     {
       id: 3,
@@ -60,6 +63,20 @@ export default {
       service: "Mobile Application",
       imageSrc: proj_rememberLikes,
       url: "#",
+    },
+    {
+      id: 6,
+      title: "PeepConnect",
+      service: "Mobile Application",
+      imageSrc: proj_peep,
+      url: "https://peep.dev",
+    },
+    {
+      id: 7,
+      title: "Birbal",
+      service: "Mobile Application",
+      imageSrc: proj_birbal,
+      url: "https://birbal.store/",
     },
   ],
   social: [
