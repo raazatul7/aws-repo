@@ -12,7 +12,7 @@ export default {
   name: "atulrajgupta",
   headerTagline: [
     //Line 1 For Header
-    "Hi 👋 You found me! I am Atul Gupta.",
+    "Hi 👋 You found me! I am Atul Raj Gupta.",
     //Line 2 For Header
     "Software Dev ",
     //Line 3 For Header
