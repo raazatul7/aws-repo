@@ -1,0 +1,20 @@
+apiVersion: v1
+
+kind: Pod
+
+metadata:
+
+  name: portfolio-pod
+
+spec:
+
+  containers:
+
+  - name: portfolio
+
+    image: raazatul7/portfolio:latest
+
+    ports:
+
+    - containerPort: 8000
+
